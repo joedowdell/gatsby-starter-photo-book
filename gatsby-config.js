@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Photo Book`,
-    description: `Share your photosets with style.`,
-    author: `baobabKoodaa`,
+    title: `Frome In Lockdown`,
+    description: `Documenting people in Frome during the Lockdown. Project by Jackie McDine`,
+    author: `Jackie `,
   },
   plugins: [
     {
